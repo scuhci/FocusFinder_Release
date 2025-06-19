@@ -51,6 +51,7 @@ Ensure you're using **Google Chrome** for the entire study.
 - Open a new Chrome tab  
 - Go to `chrome://extensions/`  
 - Toggle **Developer mode** (top-right corner)
+- ![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/devtoggle.png)
 
 ### 5. Load the Unpacked Extension
 
