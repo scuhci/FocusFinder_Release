@@ -57,10 +57,12 @@ Ensure you're using **Google Chrome** for the entire study.
 
 - On the same `chrome://extensions/` page:
   - Click `Load unpacked` (top-left)
-  - Navigate to the `focusfinder-release` folder
-  - Select the inner folder named `focusfinder-release`
+  - Select the whole folder you just unzipped named `focusfinder-release`
+![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/unpack.png)
+  
 
 🎉 The extension should now be visible in your Chrome toolbar!
+![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/successinstall.png)
 
 **Note:** _Do not delete the `focusfinder-release` folder during the study._
 
@@ -73,10 +75,10 @@ Ensure you're using **Google Chrome** for the entire study.
    - Enter your **Prolific ID**
    - Answer the survey question
    - Submit
-
+![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/onboardingform.png)
 3. A **Verification Code** will appear on screen  
    - Click it to automatically copy
-
+![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/verificationcode.png)
 4. Return to the **Prolific survey form**  
    - Paste your Verification Code to confirm your registration
 
