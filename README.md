@@ -51,19 +51,23 @@ Ensure you're using **Google Chrome** for the entire study.
 - Open a new Chrome tab  
 - Go to `chrome://extensions/`  
 - Toggle **Developer mode** (top-right corner)
-![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/devtoggle.png)
+  ![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/devtoggle.png)
 
 ### 5. Load the Unpacked Extension
 
 - On the same `chrome://extensions/` page:
   - Click `Load unpacked` (top-left)
+    
+    <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/unpackimage.png" alt="Alt Text" width="500"/>
   - Select the whole folder you just unzipped named `focusfinder-release`
-![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/unpack.png)
+ 
+    <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/unpack.png" alt="Alt Text" width="500"/>
   
 
-🎉 The extension should now be visible in your Chrome toolbar!
-![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/successinstall.png)
+  - 🎉 The extension should now be visible in your Chrome toolbar!
 
+    <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/successinstall.png" alt="Alt Text" width="500"/>
+  
 **Note:** _Do not delete the `focusfinder-release` folder during the study._
 
 ---
@@ -75,12 +79,16 @@ Ensure you're using **Google Chrome** for the entire study.
    - Enter your **Prolific ID**
    - Answer the survey question
    - Submit
-![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/onboardingform.png)
+     
+   <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/onboardingform.png" alt="Alt Text" width="500"/>
 3. A **Verification Code** will appear on screen  
    - Click it to automatically copy
-![Dev toggle](https://github.com/scuhci/FocusFinder_Release/blob/main/images/verificationcode.png)
+
+  <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/verificationcode.png" alt="Alt Text" width="500"/>
 4. Return to the **Prolific survey form**  
    - Paste your Verification Code to confirm your registration
+     
+   <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/survey.png" alt="Alt Text" width="700"/>
 
 ---
 
