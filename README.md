@@ -32,7 +32,9 @@ Once ready, proceed to installation below 👇
 ### 1. Use Chrome
 
 Ensure you're using **Google Chrome** for the entire study.
-
+> 🚨 **Before proceeding to the next steps...**  
+> 📺 Please make sure you're **signed in to YouTube** on this **Chrome browser**! ✅  
+> (Guest and Incognito modes won’t work for this study 😢)
 ### 2. Download FocusFinder
 
 - Visit: [focusfinder-release.zip](https://github.com/scuhci/FocusFinder_Release/releases/download/v1/focusfinder-release.zip)
