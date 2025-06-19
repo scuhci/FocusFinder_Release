@@ -84,11 +84,12 @@ Ensure you're using **Google Chrome** for the entire study.
 3. A **Verification Code** will appear on screen  
    - Click it to automatically copy
 
-  <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/verificationcode.png" alt="Alt Text" width="500"/>
-4. Return to the **Prolific survey form**  
+   <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/verificationcode.png" alt="Alt Text" width="500"/>
+  
+4. Return to the **Prolific** Survey Form 
    - Paste your Verification Code to confirm your registration
      
-   <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/survey.png" alt="Alt Text" width="700"/>
+   <img src="https://github.com/scuhci/FocusFinder_Release/blob/main/images/survey.png" alt="Alt Text" style="border: 2px solid #ccc; border-radius: 8px;" width="900"/>
 
 ---
 
